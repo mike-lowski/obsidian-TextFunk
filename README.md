@@ -1,4 +1,4 @@
-# TextFunk
+# TextFunk Plufing for Obsidian
 
 ### Function Descriptions:
 
