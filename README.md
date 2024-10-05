@@ -1,4 +1,4 @@
-# Obsidian TextFunk plugin
+# TextFunk
 
 ### Function Descriptions:
 
