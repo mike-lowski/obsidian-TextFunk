@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "textfunk",
+	"name": "TextFunk Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Adds useful text functions to Obsidian.",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://github.com/mike-lowski/obsidian-TextFunk",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
