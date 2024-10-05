@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Adds useful text functions to Obsidian.",
-	"author": "Obsidian",
+	"author": "mikelowski",
 	"authorUrl": "https://github.com/mike-lowski/obsidian-TextFunk",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
