@@ -1,6 +1,6 @@
 {
 	"id": "textfunk",
-	"name": "TextFunk Plugin",
+	"name": "TextFunk",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Adds useful text functions.",
