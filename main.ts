@@ -1,6 +1,6 @@
 import { Editor, Plugin } from "obsidian";
 
-export default class JoinLinesPlugin extends Plugin {
+export default class TextFunkPlugin extends Plugin {
   async onload() {
     // Command to join lines
     this.addCommand({
