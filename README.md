@@ -1,5 +1,7 @@
 # TextFunk Plugin for Obsidian
 
+This plugin covers a number of text functions present in other editors such as [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus).
+
 ## How to Use It:
 Each function is registered as a command in the Obsidian editor. You can trigger them either via the command palette or assign a keyboard shortcut for quick access. It doesn't work with multiple cursors.
 
