@@ -1,6 +1,6 @@
 # TextFunk Plugin for Obsidian
 
-## How to Use These Functions:
+## How to Use It:
 Each function is registered as a command in the Obsidian editor. You can trigger them either via the command palette or assign a keyboard shortcut for quick access. It doesn't work with multiple cursors.
 
 ## Command List:
