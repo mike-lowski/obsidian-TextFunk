@@ -12,4 +12,4 @@ Each function is registered as a command in the Obsidian editor. You can trigger
 4. **Trim Leading and Trailing Spaces**: Removes unnecessary leading and trailing spaces from each line in the selection, or from all lines in the document if nothing is selected.
 
 ## Limitations:
-It doesn't work with multiple cursors.
+It doesn't work with multiple cursors yet.
